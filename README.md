@@ -26,3 +26,6 @@ C++ programs
 **3_6_FREQ** - Calculate frequency of 0-9 in list of 20 numbers.<br/>
 **3_8_EVEN** - Count number of even and odd numbers in the list of entered numbers.<br/>
 <br/>
+**4_1_FIBONACCI** - Prints the fibonacci series.<br/>
+**4_2_PRIME** - Checks whether a number is prime or not.<br/>
+<br/>
